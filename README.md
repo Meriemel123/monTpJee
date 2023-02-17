@@ -37,6 +37,10 @@ Et pour billing detail:
 
 
 Passons maintenant a tester avec angular :
+![userNotConnected](https://user-images.githubusercontent.com/108154391/219606871-f7d13e13-4d73-4b58-8ffe-78fb9b9a55ab.jpg)
+
+![userConnected](https://user-images.githubusercontent.com/108154391/219606894-dd14a9ba-da72-4bc0-8ed9-26acb42a12b4.jpg)
+
 
 
 
