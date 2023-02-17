@@ -27,6 +27,18 @@ Et pour billing detail:
 
 ![w6](https://user-images.githubusercontent.com/108154391/219606109-f333cd8f-3842-47a3-ac86-2a5bef2544e7.jpg)
 
+![w7 refresh token](https://user-images.githubusercontent.com/108154391/219606405-21697d83-eed4-468d-88e1-15f8b42bc84e.jpg)
+
+![w8 zookeper](https://user-images.githubusercontent.com/108154391/219606434-b7060e28-4da5-4ed8-9f09-398c3a35d3cd.jpg)
+
+![W9 R1 consumer](https://user-images.githubusercontent.com/108154391/219606494-c0673969-6706-4717-a692-576c71e382cc.jpg)
+
+![w10  Kefka-console-producer et kafka-console-consumer](https://user-images.githubusercontent.com/108154391/219606520-73b56a6c-b792-4bfa-aef3-fd571ca1bf07.jpg)
+
+
+Passons maintenant a tester avec angular :
+
+
 
 
 
