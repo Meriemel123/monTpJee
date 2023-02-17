@@ -19,6 +19,14 @@ Et pour billing detail:
 ![w4Detail](https://user-images.githubusercontent.com/108154391/219604735-aa17214e-1ebb-4eaf-a5a8-a7fe0e01e0d1.jpg)
 
 -->Et pour le serveur keycloak : création d'une realm :
+![w3 ](https://user-images.githubusercontent.com/108154391/219605943-d347262a-4d05-45cc-a34c-e92687d4e447.jpg)
+
+![w4 users](https://user-images.githubusercontent.com/108154391/219605998-f795eea2-2caf-4faa-a0cf-c719136ced4a.jpg)
+
+![w5 roles](https://user-images.githubusercontent.com/108154391/219606056-4e4e9376-8d65-4196-91bb-70c866e39d5f.jpg)
+
+![w6](https://user-images.githubusercontent.com/108154391/219606109-f333cd8f-3842-47a3-ac86-2a5bef2544e7.jpg)
+
 
 
 
