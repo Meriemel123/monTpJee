@@ -1,0 +1,21 @@
+<div class="container">
+  <table class="table" *ngIf="orders">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Date</th>
+        <th>CustomerId</th>
+    </thead>
+    <tbody>
+      <tr *ngFor="let o of orders" >
+        <td>{{o.id}}</td>
+        <td>{{o.billingDate}}</td>
+        <td>{{o.customerID}}</td>
+        <td>
+          <button class="btn btn-success" (click)="getDetails(o)">Order details</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+

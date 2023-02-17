@@ -1,0 +1,52 @@
+<div class="container mt-2" *ngIf="orderDetails">
+   <div class="row">
+    <div class="col-md-6">
+      <div class="card">
+        <div class="card-header">
+            Order ID :{{orderId}}
+        </div>
+        <div class="card-body text-sm-start">
+          <div class="list-group">
+            <div class="list-group-item">Customer ID : {{orderDetails.customerID}}</div>
+            <div class="list-group-item">Date : {{orderDetails.billingDate | date:"dd/MM/yyyy"}}</div>
+            <div class="list-group-item">Customer Email : {{orderDetails.customer.email}}</div>
+            <div class="list-group-item">Customer Name : {{orderDetails.customer.name}}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="card">
+        <div class="card-header">
+          Products items
+        </div>
+        <div class="card-body">
+          <table class="table">
+            <thead>
+              <tr class="bg-dark text-white">
+                <th>Product ID</th>
+                <th>Product Name</th>
+                <th>Product Quantity</th>
+                <th>Product Price</th>
+                <th>Amount</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let item of orderDetails.productItems" >
+                <td>{{item.id}}</td>
+                <td>{{item.productName}}</td>
+                <td>{{item.quantity}}</td>
+                <td class="text-end">{{item.price}}</td>
+                <td class="text-end">{{item.amount}}</td>
+              </tr>
+              <tr class="bg-dark text-white">
+                <td colspan="4" class="text-end">Total </td>
+                <td class="text-end">{{orderDetails.total}}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+   </div>
+</div>
