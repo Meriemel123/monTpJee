@@ -9,4 +9,6 @@ Sur Eureka on trouve:
 ![3](https://user-images.githubusercontent.com/108154391/219603903-6fcd9ca4-8391-47de-a034-a56c43d83d3a.jpg)
 
 -->Et pour la partie Client Web Angular (Clients, Produits, Factures):
+![w1](https://user-images.githubusercontent.com/108154391/219604178-1516318b-9b4b-49b5-ab9f-9fc5408709d4.jpg)
+
 
