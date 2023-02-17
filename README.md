@@ -11,4 +11,6 @@ Sur Eureka on trouve:
 -->Et pour la partie Client Web Angular (Clients, Produits, Factures):
 ![w1](https://user-images.githubusercontent.com/108154391/219604178-1516318b-9b4b-49b5-ab9f-9fc5408709d4.jpg)
 
+![w2](https://user-images.githubusercontent.com/108154391/219604367-3a5dbc85-c685-4459-94d6-033fc30e7b05.jpg)
+
 
